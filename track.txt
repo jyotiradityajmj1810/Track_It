@@ -1,0 +1,22 @@
+NAME:-track_it
+TASK:-track every progress in coding.
+FEATURES:-
+	1-add new daily task to track
+	2-update the daily progress
+	3-set the timer to track time 
+	4-mannage a project by adding topic
+	5-collab with the team members
+	6-publice your jornny
+	
+STRUCTURE:-
+	1-about the page 
+	2-login or sign up
+	3-interface
+		a-pre build structure
+		b-create a new structure 
+		c-collab with mebmers
+		d-plubic your progress
+		e-profile
+		f-share your structure
+		g-focuse timer
+
